@@ -32,7 +32,7 @@ Este é um clone da interface da Netflix desenvolvido com ReactJS e permitindo q
 
 
 ## Deploy
-    https://clone-netflix-iota-rust.vercel.app/
+    https://clone-netflix-mayconds.vercel.app/
 
 
 ## Thumbs
